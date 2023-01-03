@@ -1,0 +1,14 @@
+let n=3;
+let count=0;
+for (let i=1; i<=3; i++)
+{
+if (3%1==0){
+count++;
+		}
+}
+if (count==2){
+console.log("Prime Num.- ",n);
+		  }
+else {
+console.log("Not Prime Num.");
+		  }
